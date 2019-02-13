@@ -1,2 +1,2 @@
 # learnOL
-A repo for learning openlayer
+A repo for learning openlayer test
